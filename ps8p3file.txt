@@ -1,0 +1,4 @@
+Konnor, 100000
+Bacevic, 150000
+Isabella, 200000
+Aaron, 90000
